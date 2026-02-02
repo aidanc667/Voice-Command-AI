@@ -1,0 +1,7 @@
+{
+  "name": "Voice Command AI",
+  "description": "A voice-activated command extraction app that intelligently parses spoken instructions into structured actions using Gemini 2.5.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
